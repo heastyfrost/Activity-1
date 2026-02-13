@@ -1,7 +1,7 @@
 console.log("Hello! I'm your coding fun fact guide!");
 
 let botName = "triviaBot";
-let botLocation = "your heart";
+let botLocation = "Tech World";
 let favoriteLanguage = "Python";
 
 console.log(`My name is ${botName}. I'm here to share interesting coding facts with you! I'm located in ${botLocation}.`);
@@ -11,7 +11,7 @@ console.log(`My favorite programming language is ${favoriteLanguage}. I love it 
 let codingFact1 = "The first computer programmer was Ada Lovelace.";
 console.log(`Here's a fun coding fact: ${codingFact1}`);
 
-// Fixed the typo here: use codingFact1
+
 codingFact1 = favoriteLanguage + " is the best easy one";
 console.log(codingFact1);
 
