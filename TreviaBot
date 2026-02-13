@@ -1,0 +1,21 @@
+console.log("Hello! I'm your coding fun fact guide!");
+
+let botName = "TreviaBot";
+let botLocation = "your heart";
+let favoriteLanguage = "Python";
+
+console.log(`My name is ${botName}. I'm here to share interesting coding facts with you! I'm located in ${botLocation}.`);
+
+console.log(`My favorite programming language is ${favoriteLanguage}. I love it because it's versatile and easy to learn!`);
+
+let codingFact1 = "The first computer programmer was Ada Lovelace.";
+console.log(`Here's a fun coding fact: ${codingFact1}`);
+
+codingFact1 = `${favoriteLanguage} is named after the British comedy group Monty Python, not the snake!`;
+console.log(`Here's another fun coding fact: ${codingFact1}`);
+
+codingFact1 = `${favoriteLanguage} is easy to learn for web developers.`;
+console.log(codingFact1);
+
+console.log(`It was fun sharing these facts with you. Goodbye! - ${botName} from ${botLocation}.`);
+
